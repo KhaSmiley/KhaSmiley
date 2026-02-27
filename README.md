@@ -74,12 +74,10 @@ Actuellement en recherche de **stage Fullstack**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaSmiley&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=1e293b" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaSmiley&layout=compact&hide_border=true&title_color=2563eb&text_color=1e293b" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhaSmiley&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to work · Disponible pour un stage Fullstack</i>
-</p>
+  <i>Open to work · Di
